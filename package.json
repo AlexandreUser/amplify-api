@@ -1,0 +1,25 @@
+{
+  "name": "amplify-api",
+  "version": "0.0.1",
+  "description": "Amplify is a system that centralize multiple api endpoints with a single webhook system",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexandreUser/amplify-api.git"
+  },
+  "keywords": [
+    "api",
+    "webhook",
+    "node",
+    "javascript"
+  ],
+  "author": "Alexandre Vieira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexandreUser/amplify-api/issues"
+  },
+  "homepage": "https://github.com/AlexandreUser/amplify-api#readme"
+}
